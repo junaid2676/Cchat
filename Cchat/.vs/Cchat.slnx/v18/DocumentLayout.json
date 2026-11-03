@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP MART\\source\\repos\\CChat\\Cchat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{188A9CE6-FDD7-48FF-A096-AAA44CB3D4EF}|Cchat\\Cchat.pyproj|C:\\Users\\LAPTOP MART\\source\\repos\\CChat\\Cchat\\Cchat\\Cchat.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{188A9CE6-FDD7-48FF-A096-AAA44CB3D4EF}|Cchat\\Cchat.pyproj|solutionrelative:Cchat\\Cchat.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188A9CE6-FDD7-48FF-A096-AAA44CB3D4EF}|Cchat\\Cchat.pyproj|C:\\Users\\LAPTOP MART\\source\\repos\\CChat\\Cchat\\Cchat\\Inventory.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{188A9CE6-FDD7-48FF-A096-AAA44CB3D4EF}|Cchat\\Cchat.pyproj|solutionrelative:Cchat\\Inventory.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188A9CE6-FDD7-48FF-A096-AAA44CB3D4EF}|Cchat\\Cchat.pyproj|C:\\Users\\LAPTOP MART\\source\\repos\\CChat\\Cchat\\Cchat\\UserInput.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{188A9CE6-FDD7-48FF-A096-AAA44CB3D4EF}|Cchat\\Cchat.pyproj|solutionrelative:Cchat\\UserInput.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.py",
+              "DocumentMoniker": "C:\\Users\\LAPTOP MART\\source\\repos\\CChat\\Cchat\\Cchat\\Inventory.py",
+              "RelativeDocumentMoniker": "Cchat\\Inventory.py",
+              "ToolTip": "C:\\Users\\LAPTOP MART\\source\\repos\\CChat\\Cchat\\Cchat\\Inventory.py",
+              "RelativeToolTip": "Cchat\\Inventory.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-03T22:47:24.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInput.py",
+              "DocumentMoniker": "C:\\Users\\LAPTOP MART\\source\\repos\\CChat\\Cchat\\Cchat\\UserInput.py",
+              "RelativeDocumentMoniker": "Cchat\\UserInput.py",
+              "ToolTip": "C:\\Users\\LAPTOP MART\\source\\repos\\CChat\\Cchat\\Cchat\\UserInput.py",
+              "RelativeToolTip": "Cchat\\UserInput.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-03T18:20:20.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cchat.py",
+              "DocumentMoniker": "C:\\Users\\LAPTOP MART\\source\\repos\\CChat\\Cchat\\Cchat\\Cchat.py",
+              "RelativeDocumentMoniker": "Cchat\\Cchat.py",
+              "ToolTip": "C:\\Users\\LAPTOP MART\\source\\repos\\CChat\\Cchat\\Cchat\\Cchat.py",
+              "RelativeToolTip": "Cchat\\Cchat.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-10-30T16:18:16.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
